@@ -1,0 +1,6 @@
+git init
+git config --global 
+git clone /path/to/repository
+git add
+git commit -m
+git status
